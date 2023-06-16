@@ -1,0 +1,4 @@
+name: DestructionOfCherryBlossoms
+version: '${project.version}'
+main: com.comorichico.destructionofcherryblossoms.DestructionOfCherryBlossoms
+api-version: '1.20'
